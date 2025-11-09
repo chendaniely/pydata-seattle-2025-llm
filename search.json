@@ -352,14 +352,14 @@
     "href": "setup.html",
     "title": "Setup",
     "section": "",
-    "text": "If you are attending the tutorial live, you may fill out this form and we will send you API keys: https://pos.it/pydataseattle2025workshop"
+    "text": "If you are attending the tutorial live, you may fill out this form and we will send you API keys: https://pos.it/pydataseattle2025workshop\nSee the section on the bottom on setting up your key."
   },
   {
     "objectID": "setup.html#get-an-api-key",
     "href": "setup.html#get-an-api-key",
     "title": "Setup",
     "section": "",
-    "text": "If you are attending the tutorial live, you may fill out this form and we will send you API keys: https://pos.it/pydataseattle2025workshop"
+    "text": "If you are attending the tutorial live, you may fill out this form and we will send you API keys: https://pos.it/pydataseattle2025workshop\nSee the section on the bottom on setting up your key."
   },
   {
     "objectID": "setup.html#python",
@@ -394,7 +394,7 @@
     "href": "setup.html#optional-chat-provider-with-api",
     "title": "Setup",
     "section": "(Optional): Chat provider with API",
-    "text": "(Optional): Chat provider with API\nIf you pay for Claude, OpenAI, etc access with their web/desktop application, this is a separate purchase for the API key. Depending on your usage, you may even find that paying for the API key could be cheaper!\n\nAnthropic Claude\n\nSign up at https://console.anthropic.com.\nLoad up enough credit so you won’t be sad if something goes wrong.\nCreate a key at https://console.anthropic.com/settings/keys\n\n\n\nGoogle Gemini\n\nLog in to https://aistudio.google.com with a google account\nClick create API key & copy it to the clipboard.\n\n\n\nOpenAI ChatGPT\n\nLog into https://platform.openai.com/.\nCreate a key at https://platform.openai.com/settings/organization/api-keys"
+    "text": "(Optional): Chat provider with API\nIf you pay for Claude, OpenAI, etc access with their web/desktop application, this is a separate purchase for the API key. Depending on your usage, you may even find that paying for the API key could be cheaper!\n\nAnthropic Claude\n\nSign up at https://console.anthropic.com.\nLoad up enough credit so you won’t be sad if something goes wrong.\nCreate a key at https://console.anthropic.com/settings/keys\n\n\n\nGoogle Gemini\n\nLog in to https://aistudio.google.com with a google account\nClick create API key & copy it to the clipboard.\n\n\n\nOpenAI ChatGPT\n\nLog into https://platform.openai.com/.\nCreate a key at https://platform.openai.com/settings/organization/api-keys\n\n\n\nAPI Key setup\nFor Anthropic / OpenAI keys create a .env file in the root of the repository with the following information:\nOPENAI_API_KEY=YOUR_KEY_HERE\nANTHROPIC_API_KEY=YOUR_KEY_HERE\nYou can also choose to set up the keys as a global environment variable by setting your ~/.bashrc or ~/.zshrc file. You will need to restart your terminal for variables to take affect.\nexport OPENAI_API_KEY=YOUR_KEY_HERE\nexport ANTHROPIC_API_KEY=YOUR_KEY_HERE"
   },
   {
     "objectID": "shiny-02-app.html",
