@@ -1,0 +1,12 @@
+---
+title: "Inspecing and testing your LLMs"
+---
+
+- Chatlas evals: <https://posit-dev.github.io/chatlas/misc/evals.html>
+- Inspect AI: <https://inspect.aisi.org.uk/>
+
+```bash
+pip install inspect-ai
+```
+
+Demo code in [`code/06-ai-inspect`](https://github.com/chendaniely/pydata-seattle-2025-llm/tree/main/code/06-ai-inspect)

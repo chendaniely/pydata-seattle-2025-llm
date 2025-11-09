@@ -45,6 +45,7 @@ website:
               - href: llm-02-chatlas.qmd
               - href: llm-03-tools.qmd
               - href: llm-04-querychat.qmd
+              - href: llm-05-inspect.qmd
 
 format:
   html:
