@@ -4,6 +4,11 @@ editor:
     render-on-save: true
 ---
 
+## Get an API key
+
+If you are attending the tutorial live, you may fill out this form and we will send you API keys:
+<https://pos.it/pydataseattle2025workshop>
+
 ## Python
 
 1. Clone this repository: <https://github.com/chendaniely/pydata-seattle-2025-llm>
