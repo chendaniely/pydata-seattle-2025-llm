@@ -281,11 +281,16 @@
     ]
   },
   {
-    "objectID": "llm-03-querychat.html",
-    "href": "llm-03-querychat.html",
+    "objectID": "llm-04-querychat.html",
+    "href": "llm-04-querychat.html",
     "title": "Anatomy of a Conversation",
     "section": "",
-    "text": "See demo code in code/05-ai-datascience."
+    "text": "See demo code in code/05-ai-datascience.",
+    "crumbs": [
+      "Setup",
+      "AI + LLMs",
+      "Anatomy of a Conversation"
+    ]
   },
   {
     "objectID": "llm-02-chatlas.html",
@@ -319,25 +324,30 @@
     ]
   },
   {
-    "objectID": "llm-02-tools.html",
-    "href": "llm-02-tools.html",
+    "objectID": "llm-03-tools.html",
+    "href": "llm-03-tools.html",
     "title": "Anatomy of a Conversation",
     "section": "",
-    "text": "View slides in full screen\n       \n      \n    \n  \n\nSee demo code in code/04-tools."
+    "text": "View slides in full screen\n       \n      \n    \n  \n\nSee demo code in code/04-tools.",
+    "crumbs": [
+      "Setup",
+      "AI + LLMs",
+      "Anatomy of a Conversation"
+    ]
   },
   {
     "objectID": "setup.html",
     "href": "setup.html",
     "title": "Setup",
     "section": "",
-    "text": "Clone this repository: https://github.com/chendaniely/pydata-seattle-2025-llm\n\ngit clone https://github.com/chendaniely/pydata-seattle-2025-llm.git\ngit clone git@github.com:chendaniely/pydata-seattle-2025-llm.git\n\nUse the provided requirements.txt file to create the virtual environments\n\nmake setup"
+    "text": "Clone this repository: https://github.com/chendaniely/pydata-seattle-2025-llm\n\ngit clone https://github.com/chendaniely/pydata-seattle-2025-llm.git\ngit clone git@github.com:chendaniely/pydata-seattle-2025-llm.git\n\nUse the provided requirements.txt file to create the virtual environments\n\npip install -r requirements.txt"
   },
   {
     "objectID": "setup.html#python",
     "href": "setup.html#python",
     "title": "Setup",
     "section": "",
-    "text": "Clone this repository: https://github.com/chendaniely/pydata-seattle-2025-llm\n\ngit clone https://github.com/chendaniely/pydata-seattle-2025-llm.git\ngit clone git@github.com:chendaniely/pydata-seattle-2025-llm.git\n\nUse the provided requirements.txt file to create the virtual environments\n\nmake setup"
+    "text": "Clone this repository: https://github.com/chendaniely/pydata-seattle-2025-llm\n\ngit clone https://github.com/chendaniely/pydata-seattle-2025-llm.git\ngit clone git@github.com:chendaniely/pydata-seattle-2025-llm.git\n\nUse the provided requirements.txt file to create the virtual environments\n\npip install -r requirements.txt"
   },
   {
     "objectID": "setup.html#ide",
