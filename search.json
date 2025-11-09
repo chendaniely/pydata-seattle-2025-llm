@@ -273,7 +273,7 @@
     "href": "shiny-01-intro.html",
     "title": "Introduction to Shiny",
     "section": "",
-    "text": "View slides in full screen\n       \n      \n    \n  \n\nSee demo code in code/01-intro.",
+    "text": "View slides in full screen\n       \n      \n    \n  \n\nSee demo code in code/01-intro",
     "crumbs": [
       "Setup",
       "Shiny",
@@ -281,35 +281,28 @@
     ]
   },
   {
-    "objectID": "llm-04-querychat.html",
-    "href": "llm-04-querychat.html",
-    "title": "Anatomy of a Conversation",
+    "objectID": "llm-05-inspect.html",
+    "href": "llm-05-inspect.html",
+    "title": "Inspecing and testing your LLMs",
     "section": "",
-    "text": "See demo code in code/05-ai-datascience.",
+    "text": "Chatlas evals: https://posit-dev.github.io/chatlas/misc/evals.html\nInspect AI: https://inspect.aisi.org.uk/\n\npip install inspect-ai\nDemo code in code/06-ai-inspect",
     "crumbs": [
       "Setup",
       "AI + LLMs",
-      "Anatomy of a Conversation"
+      "Inspecing and testing your LLMs"
     ]
   },
   {
-    "objectID": "llm-02-chatlas.html",
-    "href": "llm-02-chatlas.html",
-    "title": "Chatlas",
+    "objectID": "llm-03-tools.html",
+    "href": "llm-03-tools.html",
+    "title": "Tools",
     "section": "",
-    "text": "See demo code in code/03-llm.",
+    "text": "View slides in full screen\n       \n      \n    \n  \n\nSee demo code in code/04-tools",
     "crumbs": [
       "Setup",
       "AI + LLMs",
-      "Chatlas"
+      "Tools"
     ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "PyData Seattle 2025 LLM Dashboard Tutorial",
-    "section": "",
-    "text": "Activity\n\n\n\n\nWelcome + Intro\n\n\nBasic Shiny Dashboard\n\n\nMore Inputs and Output Components\n\n\nReactivity\n\n\nPublish your application\n\n\nbreak\n\n\nAnatomy of a conversation\n\n\nDemo: 20 Questions\n\n\nTool Calling\n\n\nQuerychat: Chatting with your dashboard"
   },
   {
     "objectID": "llm-01-anatomy.html",
@@ -324,15 +317,34 @@
     ]
   },
   {
-    "objectID": "llm-03-tools.html",
-    "href": "llm-03-tools.html",
-    "title": "Tools",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PyData Seattle 2025 LLM Dashboard Tutorial",
     "section": "",
-    "text": "View slides in full screen\n       \n      \n    \n  \n\nSee demo code in code/04-tools.",
+    "text": "Activity\n\n\n\n\nWelcome + Intro\n\n\nBasic Shiny Dashboard\n\n\nMore Inputs and Output Components\n\n\nReactivity\n\n\nPublish your application\n\n\nbreak\n\n\nAnatomy of a conversation\n\n\nDemo: 20 Questions\n\n\nTool Calling\n\n\nQuerychat: Chatting with your dashboard"
+  },
+  {
+    "objectID": "llm-02-chatlas.html",
+    "href": "llm-02-chatlas.html",
+    "title": "Chatlas",
+    "section": "",
+    "text": "See demo code in code/03-llm",
     "crumbs": [
       "Setup",
       "AI + LLMs",
-      "Tools"
+      "Chatlas"
+    ]
+  },
+  {
+    "objectID": "llm-04-querychat.html",
+    "href": "llm-04-querychat.html",
+    "title": "Anatomy of a Conversation",
+    "section": "",
+    "text": "See demo code in code/05-ai-datascience",
+    "crumbs": [
+      "Setup",
+      "AI + LLMs",
+      "Anatomy of a Conversation"
     ]
   },
   {
