@@ -10,7 +10,7 @@ project:
     - slides
 
 website:
-  title: "Intro to Shiny"
+  title: "PyData Seattle: LLMs, Chatbots, and Dashboards"
   navbar:
     left:
       - href: setup.qmd

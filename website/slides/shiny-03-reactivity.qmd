@@ -3,8 +3,8 @@ title: "What is Reactivity?"
 format:
   revealjs:
     footer: >
-      The New York Data Science & AI Conference. 2025.
-      <https://github.com/chendaniely/nydsaic2025-llm>
+      PyData Seattle. 2025.
+      <https://github.com/chendaniely/pydata-seattle-2025-llm>
 
     slide-number: true
     show-slide-number: all
