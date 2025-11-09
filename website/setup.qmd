@@ -15,7 +15,7 @@ git clone git@github.com:chendaniely/pydata-seattle-2025-llm.git
 1. Use the provided `requirements.txt` file to create the virtual environments
 
 ```bash
-make setup
+pip install -r requirements.txt
 ```
 
 ## IDE
