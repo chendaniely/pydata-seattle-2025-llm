@@ -1,12 +1,12 @@
 | Activity                      |
 | :---------------------------- |
-| Welcome + Intro               |
-| Basic Shiny Dashboard         |
-| More Inputs and Output Components |
-| Reactivity |
+| [Welcome + Intro](welcome.qmd)               |
+| [Basic Shiny Dashboard](shiny-01-intro.qmd)         |
+| [More Inputs and Output Components](shiny-02-app.qmd) |
+| [Reactivity](shiny-03-reactivity.qmd) |
+| [Publish your application](shiny-04-publish.qmd) |
 | *break*                       |
-| [Anatomy of a conversation]()               |
-| [Demo: 20 Questions][demo20q]
-| Tool Calling |
-| Querychat: Chatting with your dashboard |
-| End |
+| [Anatomy of a conversation](llm-01-anatomy.qmd)               |
+| Demo: 20 Questions
+| [Tool Calling](llm-03-tools.qmd) |
+| [Querychat: Chatting with your dashboard](llm-04-querychat.qmd) |
