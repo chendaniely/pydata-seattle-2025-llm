@@ -1,0 +1,7 @@
+---
+title: "Publishing your application"
+---
+
+<https://connect.posit.cloud/>
+
+Shiny application deployment documentation: <https://docs.posit.co/connect-cloud/how-to/python/shiny-python.html>

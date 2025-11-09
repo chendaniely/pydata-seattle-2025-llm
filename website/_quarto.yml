@@ -1,0 +1,71 @@
+project:
+  type: website
+  preview:
+    port: 9708
+    watch-inputs: true
+  render:
+    - "./*.qmd"
+    - "slides/*.qmd"
+  resources:
+    - slides
+
+website:
+  title: "Intro to Shiny"
+  navbar:
+    left:
+      - href: setup.qmd
+
+    right:
+      - icon: github
+        href: https://github.com/chendaniely/pydata-seattle-2025-llm
+
+  page-footer: |
+    <a href="https://github.com/chendaniely/pydata-seattle-2025-llm">chendaniely/pydata-seattle-2025-llm</a>
+
+  repo-url: https://github.com/chendaniely/pydata-seattle-2025-llm
+  repo-subdir: website
+  repo-actions: [edit, issue]
+
+  sidebar:
+    - style: docked
+      type: light
+      background: light
+      foreground: dark
+      contents:
+        - section: "Shiny"
+          contents:
+            - href: welcome.qmd
+            - href: shiny-01-intro.qmd
+            - href: shiny-02-app.qmd
+            - href: shiny-03-reactivity.qmd
+            - href: shiny-04-publish.qmd
+        - section: "AI + LLMs"
+          contents:
+              - href: llm-01-anatomy.qmd
+              - href: llm-02-chatlas.qmd
+              - href: llm-03-tools.qmd
+              - href: llm-04-querychat.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    toc-expand: 2
+
+jupyter: python3
+
+editor:
+  render-on-save: true
+
+
+brand: _brand.yml
+
+filters:
+  - shinylive
+  - quarto
+  - line-highlight
+  - countdown
+  - embedio

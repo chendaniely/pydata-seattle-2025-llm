@@ -1,0 +1,12 @@
+| Activity                      |
+| :---------------------------- |
+| Welcome + Intro               |
+| Basic Shiny Dashboard         |
+| More Inputs and Output Components |
+| Reactivity |
+| *break*                       |
+| [Anatomy of a conversation]()               |
+| [Demo: 20 Questions][demo20q]
+| Tool Calling |
+| Querychat: Chatting with your dashboard |
+| End |

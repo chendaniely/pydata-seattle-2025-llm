@@ -1,0 +1,11 @@
+---
+title: "Build a Shiny application"
+---
+
+:::{.column-page-inset-right}
+
+{{< revealjs file="slides/shiny-02-app.html" height="500px" class="ratio ratio-16x9" >}}
+
+:::
+
+See demo code in `code/02-dashboard`

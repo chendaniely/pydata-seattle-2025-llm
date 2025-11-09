@@ -1,0 +1,9 @@
+---
+title: "Anatomy of a Conversation"
+---
+
+:::{.column-page-inset-right}
+
+{{< revealjs file="slides/llm-01-anatomy.html" height="500px" class="ratio ratio-16x9" >}}
+
+:::

@@ -1,0 +1,19 @@
+::: {.columns}
+::: {.column}
+```
+python -m venv venv
+source venv/bin/activate
+pip install requirements.txt
+```
+:::
+::: {.column}
+```
+uv sync
+```
+:::
+::: {.column}
+```
+
+```
+:::
+:::

@@ -1,0 +1,9 @@
+---
+title: "What is Reactivity?"
+---
+
+:::{.column-page-inset-right}
+
+{{< revealjs file="slides/shiny-03-reactivity.html" height="500px" class="ratio ratio-16x9" >}}
+
+:::
