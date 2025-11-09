@@ -2,4 +2,4 @@
 title: "Anatomy of a Conversation"
 ---
 
-See demo code in `code/05-ai-datascience`.
+See demo code in [`code/05-ai-datascience`](https://github.com/chendaniely/pydata-seattle-2025-llm/tree/main/code/05-ai-datascience)

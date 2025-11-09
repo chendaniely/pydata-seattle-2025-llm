@@ -8,4 +8,4 @@ title: "Build a Shiny application"
 
 :::
 
-See demo code in `code/02-dashboard`
+See demo code in [`code/02-dashboard`](https://github.com/chendaniely/pydata-seattle-2025-llm/tree/main/code/02-dashboard)

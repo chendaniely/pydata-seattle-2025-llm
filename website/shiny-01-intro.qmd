@@ -8,4 +8,4 @@ title: "Introduction to Shiny"
 
 :::
 
-See demo code in `code/01-intro`.
+See demo code in [`code/01-intro`](https://github.com/chendaniely/pydata-seattle-2025-llm/tree/main/code/01-intro)

@@ -8,4 +8,4 @@ title: "Tools"
 
 :::
 
-See demo code in `code/04-tools`.
+See demo code in [`code/04-tools`](https://github.com/chendaniely/pydata-seattle-2025-llm/tree/main/code/04-tools)

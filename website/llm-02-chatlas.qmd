@@ -2,4 +2,4 @@
 title: "Chatlas"
 ---
 
-See demo code in `code/03-llm`.
+See demo code in [`code/03-llm`](https://github.com/chendaniely/pydata-seattle-2025-llm/tree/main/code/03-llm)
