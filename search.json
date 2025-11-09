@@ -242,7 +242,7 @@
     "href": "slides/llm-02-tools.html#you-try-register-a-tool",
     "title": "Tool Calling",
     "section": "You try: register a tool",
-    "text": "You try: register a tool\n\nFunctions: https://github.com/chendaniely/nydsaic2025-llm/tree/main/helper\nApp: https://github.com/chendaniely/nydsaic2025-llm/blob/main/code/03-tools/app.py"
+    "text": "You try: register a tool\n\nFunctions: https://github.com/chendaniely/pydata-seattle-2025-llm/tree/main/helper\nApp: https://github.com/chendaniely/pydata-seattle-2025-llm/blob/main/code/03-tools/app.py"
   },
   {
     "objectID": "welcome.html",

@@ -7,8 +7,8 @@ format:
     slide-number: true
 
     footer: >
-      The New York Data Science & AI Conference. 2025.
-      <https://github.com/chendaniely/nydsaic2025-llm>
+      PyData Seattle. 2025.
+      <https://github.com/chendaniely/pydata-seattle-2025-llm>
 
 editor:
   render-on-save: true
@@ -137,5 +137,5 @@ chat.register_tool(get_weather)
 
 ## You try: register a tool
 
-- Functions: <https://github.com/chendaniely/nydsaic2025-llm/tree/main/helper>
-- App: <https://github.com/chendaniely/nydsaic2025-llm/blob/main/code/03-tools/app.py>
+- Functions: <https://github.com/chendaniely/pydata-seattle-2025-llm/tree/main/helper>
+- App: <https://github.com/chendaniely/pydata-seattle-2025-llm/blob/main/code/03-tools/app.py>
