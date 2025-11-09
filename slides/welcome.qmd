@@ -1,0 +1,98 @@
+---
+title: "Welcome"
+format:
+  revealjs:
+    smaller: true
+    slide-number: true
+
+    footer: >
+      PyData Seattle. 2025.
+      <https://github.com/chendaniely/pydata-seattle-2025-llm>
+
+editor:
+  render-on-save: true
+---
+
+## Install + Setup
+
+Take a look at the workshop website and go through the setup instructions:
+<https://github.com/chendaniely/pydata-seattle-2025-llm>
+
+Url is at the bottom of all the slides.
+
+- Clone this repo
+- Install your Python packages
+- Download at least one of the Ollama models.
+   Feel free to pick any other one.
+- (Optional) use the `.env.template` file to provide your API key into `.env`
+  (will provide one during break).
+
+{{< include ../partials/python-setup.qmd >}}
+
+:::{.callout-note}
+If you pay for Claude, OpenAI, etc access with their web/desktop application,
+this is a separate purchase for the API key.
+Depending on your usage, you may even find that paying for the API key could be cheaper!
+:::
+
+## Passing along what I learned {footer=false}
+
+::: {.columns}
+::: {.column}
+![](/img/youtube-joe-llm.png)
+
+<https://www.youtube.com/watch?v=owDd1CJ17uQ>
+:::
+::: {.column}
+
+![](/img/youtube-joe-scipy2025.png)
+
+<https://www.youtube.com/watch?v=Kk3xZpKKMyE>
+:::
+:::
+
+## Also check the documentation
+
+::: {.columns}
+::: {.column}
+![](/img/logo-chatlas.png)
+:::
+::: {.column}
+
+<https://posit-dev.github.io/chatlas/>
+
+```bash
+pip install chatlas
+```
+:::
+:::
+
+
+## Poll: Experience with LLMs
+
+:::{.incremental}
+
+1. Used an LLM before (ChatGPT/Claude/Ollama desktop/web application)?
+2. Used it for a homework assignment?
+3. Tasks outside of school work?
+
+4. Skeptical about LLMs/AI (1-2 out of 5)? Why?
+5. Neutral about LLMs/AI (3 out of 5)? Why?
+6. Enthusiastic about LLMs/AI (4-5 out of 5)? Why?
+
+:::
+
+## Today
+
+- Today, we will treat LLMs as black boxes
+- Practical introduction
+- Get some hands on practice to demystify using them
+
+## Goal
+
+Quick Start course on LLMs. You will leave having used a Chat API.
+
+## Security
+
+- **DO NOT** send proprietary code or data to any LLM, unless you are sure IT policies allow it
+- Local models (e.g., Ollama) typically perform worse than frontier models
