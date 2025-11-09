@@ -30,6 +30,9 @@ jobs:
         with:
           tinytex: false
 
+      - name: Install Cairo dependencies
+        run: sudo apt-get update && sudo apt-get install -y libcairo2-dev pkg-config python3-dev
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
