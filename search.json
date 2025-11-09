@@ -338,13 +338,13 @@
   {
     "objectID": "llm-04-querychat.html",
     "href": "llm-04-querychat.html",
-    "title": "Anatomy of a Conversation",
+    "title": "Querychat",
     "section": "",
     "text": "See demo code in code/05-ai-datascience",
     "crumbs": [
       "Setup",
       "AI + LLMs",
-      "Anatomy of a Conversation"
+      "Querychat"
     ]
   },
   {
