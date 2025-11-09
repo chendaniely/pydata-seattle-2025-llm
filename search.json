@@ -309,7 +309,7 @@
     "href": "index.html",
     "title": "PyData Seattle 2025 LLM Dashboard Tutorial",
     "section": "",
-    "text": "Activity\n\n\n\n\nWelcome + Intro\n\n\nBasic Shiny Dashboard\n\n\nMore Inputs and Output Components\n\n\nReactivity\n\n\nbreak\n\n\nAnatomy of a conversation\n\n\n[Demo: 20 Questions][demo20q]\n\n\nTool Calling\n\n\nQuerychat: Chatting with your dashboard\n\n\nEnd"
+    "text": "Activity\n\n\n\n\nWelcome + Intro\n\n\nBasic Shiny Dashboard\n\n\nMore Inputs and Output Components\n\n\nReactivity\n\n\nPublish your application\n\n\nbreak\n\n\nAnatomy of a conversation\n\n\nDemo: 20 Questions\n\n\nTool Calling\n\n\nQuerychat: Chatting with your dashboard"
   },
   {
     "objectID": "llm-01-anatomy.html",
@@ -340,14 +340,21 @@
     "href": "setup.html",
     "title": "Setup",
     "section": "",
-    "text": "Clone this repository: https://github.com/chendaniely/pydata-seattle-2025-llm\n\ngit clone https://github.com/chendaniely/pydata-seattle-2025-llm.git\ngit clone git@github.com:chendaniely/pydata-seattle-2025-llm.git\n\nUse the provided requirements.txt file to create the virtual environments\n\npip install -r requirements.txt"
+    "text": "If you are attending the tutorial live, you may fill out this form and we will send you API keys: https://pos.it/pydataseattle2025workshop"
+  },
+  {
+    "objectID": "setup.html#get-an-api-key",
+    "href": "setup.html#get-an-api-key",
+    "title": "Setup",
+    "section": "",
+    "text": "If you are attending the tutorial live, you may fill out this form and we will send you API keys: https://pos.it/pydataseattle2025workshop"
   },
   {
     "objectID": "setup.html#python",
     "href": "setup.html#python",
     "title": "Setup",
-    "section": "",
-    "text": "Clone this repository: https://github.com/chendaniely/pydata-seattle-2025-llm\n\ngit clone https://github.com/chendaniely/pydata-seattle-2025-llm.git\ngit clone git@github.com:chendaniely/pydata-seattle-2025-llm.git\n\nUse the provided requirements.txt file to create the virtual environments\n\npip install -r requirements.txt"
+    "section": "Python",
+    "text": "Python\n\nClone this repository: https://github.com/chendaniely/pydata-seattle-2025-llm\n\ngit clone https://github.com/chendaniely/pydata-seattle-2025-llm.git\ngit clone git@github.com:chendaniely/pydata-seattle-2025-llm.git\n\nUse the provided requirements.txt file to create the virtual environments\n\npip install -r requirements.txt"
   },
   {
     "objectID": "setup.html#ide",
