@@ -1,4 +1,6 @@
 import requests
+from typing import Dict
+
 from chatlas import ChatAnthropic
 from dotenv import load_dotenv
 
@@ -57,4 +59,5 @@ chat = ChatAnthropic(
 # chat.list_models()
 
 chat.register_tool(get_weather)
+chat.register_tool(get_coordinates)
 chat.chat("What is the weather in Seattle?")
